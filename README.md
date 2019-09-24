@@ -1,4 +1,4 @@
-# How to find the corrupted PDF files in C# using Syncfusion PDF
+# How to find the corrupted PDF files using Syncfusion PDF Library
 
 Syncfusion PDF Library provides support to find the existing PDF document corruptions and provides the corruption details
 
