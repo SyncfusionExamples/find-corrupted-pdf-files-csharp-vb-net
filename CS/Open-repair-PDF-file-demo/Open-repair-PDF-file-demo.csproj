@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>Open_repair_PDF_file_demo</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Pdf.Net.Core" Version="17.3.0.9-beta" />
+    <PackageReference Include="Syncfusion.Pdf.Net.Core" Version="*" />
   </ItemGroup>
 
 </Project>
