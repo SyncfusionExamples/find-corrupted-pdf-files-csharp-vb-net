@@ -2,7 +2,7 @@
 
 You might have a lot of PDF files in your disc or database; you need to find out the corrupted files and take necessary actions. But it is not possible for you to open every single file with a PDF reader to check whether it is corrupted or not. 
 
-To save your effort and time, [Syncfusion PDF library](https://www.syncfusion.com/pdf-framework/net/pdf-library) provides you the support to identify the corrupted PDF files using C#, VB.NET by checking whether the PDF format syntax are proper. 
+To save your effort and time, [Syncfusion&reg; PDF library](https://www.syncfusion.com/pdf-framework/net/pdf-library) provides you the support to identify the corrupted PDF files using C#, VB.NET by checking whether the PDF format syntax are proper. 
 
 Let’s dive into the details about how to find the corrupted PDF files.
 
